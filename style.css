@@ -66,6 +66,11 @@ p {
   display: flex;
   flex-direction: column;
   gap: 10px;
+
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
 }
 
 .button-help {
